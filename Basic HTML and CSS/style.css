@@ -1,0 +1,170 @@
+                                                        /*element selector*/
+p{
+   color: hsla(0,100%,50%,1.0);
+}
+
+                                                        /*id selector*/
+#h{
+    font-size:35px;
+    text-decoration:underline;
+}
+
+                                                        /*class selector*/
+.babypink{
+            color:pink;
+}
+
+.red{
+     color:red;
+}
+
+#v{
+    color:blue;
+}
+
+.font{
+    font-size:50px;
+}
+
+.underline{
+    text-decoration:underline;
+}
+                                                        /* backgrounds*/
+/*
+#bg{
+    background-image: url('jaydeep.jpg');
+    background-repeat:no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+*/
+/*
+#bg{
+    background-color: purple;
+    background-image: url("resum.jpg"),url("jaydeep.jpg");
+    background-repeat: no-repeat;
+    background-position: left top,right bottom;
+    background-size: 50%,50%;
+    background-attachment: fixed;
+}*/
+                                                        /*border*/
+/*
+#border{
+    border-style:solid;
+    border-width:5px;
+    border-color:green;
+}
+*/
+/*
+#border{
+    border-style:solid dashed groove dotted;
+    border-width:5px 10px 20px 15px;
+    border-color:red green blue purple;
+}*/
+/*
+#border{
+    border-style:outset inset;
+    border-width:5px 3px;
+    border-color:pink;
+}*/
+/*
+#border{
+    border:5px solid brown;
+}*/
+/*
+#border{
+    border-top-style:dashed;
+    border-top-width:3px;
+    border-top-color:blue;
+}*/
+/*
+#border{
+    border-color:blue;
+    border-style:solid;
+   /* border-radius: 10px;*/
+  /* border-radius: 10px 20px 15px 25px;*/
+ /* border-radius: 25px 30px;*/
+ /* border-top-left-radius:10px;
+ border-top-right-radius:20px;
+ border-bottom-left-radius:10px;
+ border-bottom-right-radius:20px;
+}*/
+                                                        /* height and width */
+/*
+#HandW{
+    background-color: red;
+    height:100px;
+    width:800px;
+    max-width:800px;
+    max-height:800px;
+    min-width:250px;
+    min-height: 200px;
+}*/
+                                                     /* padding */
+/*                                                                                                        
+#padding{
+    border:1px solid red;*/
+    /*padding-top:50px;
+    padding-bottom:25px;
+    padding-right:20px;
+    padding-left:30px;*/
+
+   /* padding:25px 50px 60px 65px;
+}*/
+                                                    /* margin*/
+/*                                                    
+.margin{
+    border:1px solid red;
+   /* margin-top:50px;
+    margin-bottom:20px;
+    margin-right:60px;
+    margin-left:70px;*/
+
+   /* margin:20px 30px 40px 50px;*/
+/*
+}
+#margin{
+    border:1px solid blue;
+    width:200px;*/
+   /* margin:auto;*/
+/*
+    margin:20px auto;
+}*/
+                                                     /*text*/
+/*#text{
+        width:700px;
+        border:1px solid black;
+        color:blue;
+       /* text-align:justify;*/   /*center;right;*/
+        /*direction:rtl;*/
+        /*text-decoration :underline;*/ 
+    /*    text-transform:uppercase;/*lovercase ;capitalize*/
+      /*  line-height:30px;
+        text-indent:50px;
+        letter-spacing:5px;
+        word-spacing:10px;
+       /* white-space:pre;    /*nowrap*/
+       /* word-wrap:break-word;
+        /*writing-mode:vertical-lr;   /*vertical-rl*/
+       /* text-shadow:5px -6px 2px red;
+
+
+}*/
+                                                 /*link*/
+a{
+    text-decoration:none;
+}
+a:link{
+    color:yellowgreen;
+    font-size:30px;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:orange;
+}
+a:active{
+    color:red;
+}
